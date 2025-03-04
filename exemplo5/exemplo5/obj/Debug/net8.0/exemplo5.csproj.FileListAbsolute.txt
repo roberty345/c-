@@ -1,0 +1,14 @@
+C:\Users\Rorigo\source\repos\exemplo5\exemplo5\obj\Debug\net8.0\exemplo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rorigo\source\repos\exemplo5\exemplo5\obj\Debug\net8.0\exemplo5.AssemblyInfoInputs.cache
+C:\Users\Rorigo\source\repos\exemplo5\exemplo5\obj\Debug\net8.0\exemplo5.AssemblyInfo.cs
+C:\Users\Rorigo\source\repos\exemplo5\exemplo5\obj\Debug\net8.0\exemplo5.csproj.CoreCompileInputs.cache
+C:\Users\Rorigo\source\repos\exemplo5\exemplo5\bin\Debug\net8.0\exemplo5.exe
+C:\Users\Rorigo\source\repos\exemplo5\exemplo5\bin\Debug\net8.0\exemplo5.deps.json
+C:\Users\Rorigo\source\repos\exemplo5\exemplo5\bin\Debug\net8.0\exemplo5.runtimeconfig.json
+C:\Users\Rorigo\source\repos\exemplo5\exemplo5\bin\Debug\net8.0\exemplo5.dll
+C:\Users\Rorigo\source\repos\exemplo5\exemplo5\bin\Debug\net8.0\exemplo5.pdb
+C:\Users\Rorigo\source\repos\exemplo5\exemplo5\obj\Debug\net8.0\exemplo5.dll
+C:\Users\Rorigo\source\repos\exemplo5\exemplo5\obj\Debug\net8.0\refint\exemplo5.dll
+C:\Users\Rorigo\source\repos\exemplo5\exemplo5\obj\Debug\net8.0\exemplo5.pdb
+C:\Users\Rorigo\source\repos\exemplo5\exemplo5\obj\Debug\net8.0\exemplo5.genruntimeconfig.cache
+C:\Users\Rorigo\source\repos\exemplo5\exemplo5\obj\Debug\net8.0\ref\exemplo5.dll
