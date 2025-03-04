@@ -1,0 +1,14 @@
+C:\Users\Rorigo\source\repos\exemplo2D22\exemplo2D22\bin\Debug\net8.0\exemplo2D22.exe
+C:\Users\Rorigo\source\repos\exemplo2D22\exemplo2D22\bin\Debug\net8.0\exemplo2D22.deps.json
+C:\Users\Rorigo\source\repos\exemplo2D22\exemplo2D22\bin\Debug\net8.0\exemplo2D22.runtimeconfig.json
+C:\Users\Rorigo\source\repos\exemplo2D22\exemplo2D22\bin\Debug\net8.0\exemplo2D22.dll
+C:\Users\Rorigo\source\repos\exemplo2D22\exemplo2D22\bin\Debug\net8.0\exemplo2D22.pdb
+C:\Users\Rorigo\source\repos\exemplo2D22\exemplo2D22\obj\Debug\net8.0\exemplo2D22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rorigo\source\repos\exemplo2D22\exemplo2D22\obj\Debug\net8.0\exemplo2D22.AssemblyInfoInputs.cache
+C:\Users\Rorigo\source\repos\exemplo2D22\exemplo2D22\obj\Debug\net8.0\exemplo2D22.AssemblyInfo.cs
+C:\Users\Rorigo\source\repos\exemplo2D22\exemplo2D22\obj\Debug\net8.0\exemplo2D22.csproj.CoreCompileInputs.cache
+C:\Users\Rorigo\source\repos\exemplo2D22\exemplo2D22\obj\Debug\net8.0\exemplo2D22.dll
+C:\Users\Rorigo\source\repos\exemplo2D22\exemplo2D22\obj\Debug\net8.0\refint\exemplo2D22.dll
+C:\Users\Rorigo\source\repos\exemplo2D22\exemplo2D22\obj\Debug\net8.0\exemplo2D22.pdb
+C:\Users\Rorigo\source\repos\exemplo2D22\exemplo2D22\obj\Debug\net8.0\exemplo2D22.genruntimeconfig.cache
+C:\Users\Rorigo\source\repos\exemplo2D22\exemplo2D22\obj\Debug\net8.0\ref\exemplo2D22.dll
