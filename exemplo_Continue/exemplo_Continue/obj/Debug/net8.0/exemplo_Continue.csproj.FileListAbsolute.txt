@@ -1,0 +1,14 @@
+C:\Users\Rorigo\source\repos\exemplo_Continue\exemplo_Continue\bin\Debug\net8.0\exemplo_Continue.exe
+C:\Users\Rorigo\source\repos\exemplo_Continue\exemplo_Continue\bin\Debug\net8.0\exemplo_Continue.deps.json
+C:\Users\Rorigo\source\repos\exemplo_Continue\exemplo_Continue\bin\Debug\net8.0\exemplo_Continue.runtimeconfig.json
+C:\Users\Rorigo\source\repos\exemplo_Continue\exemplo_Continue\bin\Debug\net8.0\exemplo_Continue.dll
+C:\Users\Rorigo\source\repos\exemplo_Continue\exemplo_Continue\bin\Debug\net8.0\exemplo_Continue.pdb
+C:\Users\Rorigo\source\repos\exemplo_Continue\exemplo_Continue\obj\Debug\net8.0\exemplo_Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rorigo\source\repos\exemplo_Continue\exemplo_Continue\obj\Debug\net8.0\exemplo_Continue.AssemblyInfoInputs.cache
+C:\Users\Rorigo\source\repos\exemplo_Continue\exemplo_Continue\obj\Debug\net8.0\exemplo_Continue.AssemblyInfo.cs
+C:\Users\Rorigo\source\repos\exemplo_Continue\exemplo_Continue\obj\Debug\net8.0\exemplo_Continue.csproj.CoreCompileInputs.cache
+C:\Users\Rorigo\source\repos\exemplo_Continue\exemplo_Continue\obj\Debug\net8.0\exemplo_Continue.dll
+C:\Users\Rorigo\source\repos\exemplo_Continue\exemplo_Continue\obj\Debug\net8.0\refint\exemplo_Continue.dll
+C:\Users\Rorigo\source\repos\exemplo_Continue\exemplo_Continue\obj\Debug\net8.0\exemplo_Continue.pdb
+C:\Users\Rorigo\source\repos\exemplo_Continue\exemplo_Continue\obj\Debug\net8.0\exemplo_Continue.genruntimeconfig.cache
+C:\Users\Rorigo\source\repos\exemplo_Continue\exemplo_Continue\obj\Debug\net8.0\ref\exemplo_Continue.dll
