@@ -19,7 +19,7 @@ public class exercicio16
         }
         else
         {
-                Console.WriteLine("O  numero não é´par e por isso nãõ é´calculado o valor ao quadrado");
+                Console.WriteLine("O  numero indicado é par e o seu quadrado é 100 ");
         }     
         return resultado; // True/False
     }
