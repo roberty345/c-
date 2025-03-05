@@ -1,0 +1,14 @@
+C:\Users\Rorigo\source\repos\exemplo_Break\exemplo_Break\bin\Debug\net8.0\exemplo_Break.exe
+C:\Users\Rorigo\source\repos\exemplo_Break\exemplo_Break\bin\Debug\net8.0\exemplo_Break.deps.json
+C:\Users\Rorigo\source\repos\exemplo_Break\exemplo_Break\bin\Debug\net8.0\exemplo_Break.runtimeconfig.json
+C:\Users\Rorigo\source\repos\exemplo_Break\exemplo_Break\bin\Debug\net8.0\exemplo_Break.dll
+C:\Users\Rorigo\source\repos\exemplo_Break\exemplo_Break\bin\Debug\net8.0\exemplo_Break.pdb
+C:\Users\Rorigo\source\repos\exemplo_Break\exemplo_Break\obj\Debug\net8.0\exemplo_Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rorigo\source\repos\exemplo_Break\exemplo_Break\obj\Debug\net8.0\exemplo_Break.AssemblyInfoInputs.cache
+C:\Users\Rorigo\source\repos\exemplo_Break\exemplo_Break\obj\Debug\net8.0\exemplo_Break.AssemblyInfo.cs
+C:\Users\Rorigo\source\repos\exemplo_Break\exemplo_Break\obj\Debug\net8.0\exemplo_Break.csproj.CoreCompileInputs.cache
+C:\Users\Rorigo\source\repos\exemplo_Break\exemplo_Break\obj\Debug\net8.0\exemplo_Break.dll
+C:\Users\Rorigo\source\repos\exemplo_Break\exemplo_Break\obj\Debug\net8.0\refint\exemplo_Break.dll
+C:\Users\Rorigo\source\repos\exemplo_Break\exemplo_Break\obj\Debug\net8.0\exemplo_Break.pdb
+C:\Users\Rorigo\source\repos\exemplo_Break\exemplo_Break\obj\Debug\net8.0\exemplo_Break.genruntimeconfig.cache
+C:\Users\Rorigo\source\repos\exemplo_Break\exemplo_Break\obj\Debug\net8.0\ref\exemplo_Break.dll
