@@ -1,0 +1,14 @@
+C:\Users\Rorigo\source\repos\exercicio_14\exercicio_14\bin\Debug\net8.0\exercicio_14.exe
+C:\Users\Rorigo\source\repos\exercicio_14\exercicio_14\bin\Debug\net8.0\exercicio_14.deps.json
+C:\Users\Rorigo\source\repos\exercicio_14\exercicio_14\bin\Debug\net8.0\exercicio_14.runtimeconfig.json
+C:\Users\Rorigo\source\repos\exercicio_14\exercicio_14\bin\Debug\net8.0\exercicio_14.dll
+C:\Users\Rorigo\source\repos\exercicio_14\exercicio_14\bin\Debug\net8.0\exercicio_14.pdb
+C:\Users\Rorigo\source\repos\exercicio_14\exercicio_14\obj\Debug\net8.0\exercicio_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rorigo\source\repos\exercicio_14\exercicio_14\obj\Debug\net8.0\exercicio_14.AssemblyInfoInputs.cache
+C:\Users\Rorigo\source\repos\exercicio_14\exercicio_14\obj\Debug\net8.0\exercicio_14.AssemblyInfo.cs
+C:\Users\Rorigo\source\repos\exercicio_14\exercicio_14\obj\Debug\net8.0\exercicio_14.csproj.CoreCompileInputs.cache
+C:\Users\Rorigo\source\repos\exercicio_14\exercicio_14\obj\Debug\net8.0\exercicio_14.dll
+C:\Users\Rorigo\source\repos\exercicio_14\exercicio_14\obj\Debug\net8.0\refint\exercicio_14.dll
+C:\Users\Rorigo\source\repos\exercicio_14\exercicio_14\obj\Debug\net8.0\exercicio_14.pdb
+C:\Users\Rorigo\source\repos\exercicio_14\exercicio_14\obj\Debug\net8.0\exercicio_14.genruntimeconfig.cache
+C:\Users\Rorigo\source\repos\exercicio_14\exercicio_14\obj\Debug\net8.0\ref\exercicio_14.dll
