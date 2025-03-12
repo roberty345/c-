@@ -8,7 +8,7 @@ public class exercicio_15
 
         bool resultado = ParImpar (10);
 
-        //logca
+        //lógica
 
         if (resultado == true)
         {
