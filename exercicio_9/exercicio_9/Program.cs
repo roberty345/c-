@@ -6,7 +6,7 @@ public class exercicio9
         int soma = 1;
         int cont = 1;
 
-        while (soma <= 100)
+        while (soma <= 10)
         {
             cont++;
             soma += cont;
