@@ -19,7 +19,7 @@ public class Exercicio_19
             Console.WriteLine("Escolha uma opção:");
 
             opcao = Console.ReadLine();
-            int opcaoInt = Convert.ToInt32(opcao);
+            
             switch (opcaoInt)
             {
                 case 1:
