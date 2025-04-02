@@ -1,0 +1,14 @@
+C:\Users\Rorigo\source\repos\Exercicio_21\Exercicio_21\obj\Debug\net8.0\Exercicio_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rorigo\source\repos\Exercicio_21\Exercicio_21\obj\Debug\net8.0\Exercicio_21.AssemblyInfoInputs.cache
+C:\Users\Rorigo\source\repos\Exercicio_21\Exercicio_21\obj\Debug\net8.0\Exercicio_21.AssemblyInfo.cs
+C:\Users\Rorigo\source\repos\Exercicio_21\Exercicio_21\obj\Debug\net8.0\Exercicio_21.csproj.CoreCompileInputs.cache
+C:\Users\Rorigo\source\repos\Exercicio_21\Exercicio_21\bin\Debug\net8.0\Exercicio_21.exe
+C:\Users\Rorigo\source\repos\Exercicio_21\Exercicio_21\bin\Debug\net8.0\Exercicio_21.deps.json
+C:\Users\Rorigo\source\repos\Exercicio_21\Exercicio_21\bin\Debug\net8.0\Exercicio_21.runtimeconfig.json
+C:\Users\Rorigo\source\repos\Exercicio_21\Exercicio_21\bin\Debug\net8.0\Exercicio_21.dll
+C:\Users\Rorigo\source\repos\Exercicio_21\Exercicio_21\bin\Debug\net8.0\Exercicio_21.pdb
+C:\Users\Rorigo\source\repos\Exercicio_21\Exercicio_21\obj\Debug\net8.0\Exercicio_21.dll
+C:\Users\Rorigo\source\repos\Exercicio_21\Exercicio_21\obj\Debug\net8.0\refint\Exercicio_21.dll
+C:\Users\Rorigo\source\repos\Exercicio_21\Exercicio_21\obj\Debug\net8.0\Exercicio_21.pdb
+C:\Users\Rorigo\source\repos\Exercicio_21\Exercicio_21\obj\Debug\net8.0\Exercicio_21.genruntimeconfig.cache
+C:\Users\Rorigo\source\repos\Exercicio_21\Exercicio_21\obj\Debug\net8.0\ref\Exercicio_21.dll
