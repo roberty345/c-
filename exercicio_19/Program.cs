@@ -22,7 +22,7 @@ public class Exercicio_19
             
             switch (opcaoInt)
             {
-                case 1:
+                case "1":
                     Console.WriteLine("Nome:");
                     string nome = Console.ReadLine();
                     Console.WriteLine("Contacto:");
@@ -32,7 +32,7 @@ public class Exercicio_19
                     Console.WriteLine("Contacto adicionado!");
                     break;
 
-                case 2:
+                case "2":
                     Console.WriteLine("Pesquisar contacto:");
                     string pesquisacontacto = Console.ReadLine();
 
@@ -46,7 +46,7 @@ public class Exercicio_19
                     }
                     break;
 
-                case 3:
+                case "3":
                     Console.WriteLine("Remover contacto:");
                     pesquisacontacto = Console.ReadLine();
 
@@ -61,7 +61,7 @@ public class Exercicio_19
                     }
                     break;
 
-                case 4:
+                case "4":
                     Console.WriteLine("Saindo...");
                     opcao = "4";
                     break;
